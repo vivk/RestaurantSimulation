@@ -1,3 +1,6 @@
 [submodule "DinnerHall"]
 	path = DinnerHall
 	url = https://github.com/vivk-FAF-PR16-2/RestaurantDinnerHall
+[submodule "Kitchen"]
+	path = Kitchen
+	url = https://github.com/FAF-PR-RestaurantK/RestaurantKitchen.git
